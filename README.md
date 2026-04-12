@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nunesxyz/Nunesxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+Nunes;Programador+em+nível+intermediário;Foco+em+evoluir+todo+dia&center=true&width=500&color=00FF00&background=000000">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Linguagens que eu uso
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+</p>
+
+---
+
+## 📌 Sobre mim
+- Programador em evolução
+- Foco em projetos web e scripts
+- Aprendizado constante
