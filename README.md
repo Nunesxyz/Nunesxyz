@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 Sobre mim
+##  Sobre mim
 - Programador em evolução
 - Foco em projetos web e scripts
 - Aprendizado constante
